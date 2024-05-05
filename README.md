@@ -34,11 +34,9 @@ This is a Weather App that allows users to check the current weather conditions 
 
 ## Screenshots
 
-[Insert screenshots here if available]
 
 ## Demo
 
-[Insert link to live demo here if available]
 
 ## Author
 
